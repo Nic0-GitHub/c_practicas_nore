@@ -1,4 +1,3 @@
-
 # Resumen (Primera fecha)
 1. Empresa de Tornillos - Dificultad: 6
 2. Manejo de ventas - Dificultad: 7
@@ -131,11 +130,8 @@ Se desea realizar lo siguiente:
         id_cuenta
         divisas de la cuenta
         equivalente del patrimonio de la cuenta en ConvertCoins.
-    
     B) Realización de retiros.
-
     D) Convertivilidad de monedas.
-
     E) impresion de stock de divisas.
 
 # 8 Descubriendo Impostores.
