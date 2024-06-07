@@ -3,7 +3,7 @@
 2. Manejo de ventas - Dificultad: 7
 3. Coordinación de hospedaje - Dificultad: 5
 4. Lista de alumnos - Dificultad: 8
-5. Centro de distribución - Dificultad: 5
+5. Centro de distribución - Dificultad: 5 √
 6. Comunicacon - Dificultad: 8.5
 7. Cambio de divisas - Dificultad: 7
 8. 8 Descubriendo Impostores - Dificultad: 6 
