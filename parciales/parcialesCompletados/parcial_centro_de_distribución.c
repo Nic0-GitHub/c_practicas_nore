@@ -1,5 +1,6 @@
 /******************************************************************************
-
+pieroni.nico@gmail.com
+                            Centro de distribución
 Dentro de un centro de distribución se requiere el diseño de un sistema para el manejo de los productos.
 De cada producto se conoce:
     - nroProducto
