@@ -1,5 +1,5 @@
 # Resumen (Primera fecha)
-1. Empresa de Tornillos - Dificultad: 6
+1. Empresa de Tornillos - Dificultad: 6 √
 2. Manejo de ventas - Dificultad: 7
 3. Coordinación de hospedaje - Dificultad: 5
 4. Lista de alumnos - Dificultad: 8
