@@ -7,7 +7,7 @@
 6. Comunicacon - Dificultad: 8.5 √
 7. Cambio de divisas - Dificultad: 7
 8. 8 Descubriendo Impostores - Dificultad: 6 
-9. Servicio de planta - Dificultad: 4
+9. Servicio de planta - Dificultad: 4 √
 
 
 # 1 Empresa de Tornillos
