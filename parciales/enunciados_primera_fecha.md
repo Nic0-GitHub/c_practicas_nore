@@ -1,7 +1,7 @@
 # Resumen (Primera fecha)
 1. Empresa de Tornillos - Dificultad: 6 √
 2. Manejo de ventas - Dificultad: 7
-3. Coordinación de hospedaje - Dificultad: 5
+3. Coordinación de hospedaje - Dificultad: 5 √
 4. Lista de alumnos - Dificultad: 5 √
 5. Centro de distribución - Dificultad: 5 √
 6. Comunicacon - Dificultad: 8.5 √
