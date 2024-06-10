@@ -5,7 +5,7 @@
 4. Lista de alumnos - Dificultad: 5 √
 5. Centro de distribución - Dificultad: 5 √
 6. Comunicacon - Dificultad: 8.5 √
-7. Cambio de divisas - Dificultad: 7
+7. Cambio de divisas - Dificultad: 7 √
 8. Descubriendo Impostores - Dificultad: 6 √
 9. Servicio de planta - Dificultad: 4 √
 
