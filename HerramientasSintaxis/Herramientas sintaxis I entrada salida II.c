@@ -33,10 +33,18 @@
         output:
             4.23
         
-    para el texto %(numero)s muestra solo (numero) caracteres.
+    para el texto %.(numero)s muestra solo (numero) caracteres.
 
-        printf("%4s","hola mundo");
+        printf("%.4s","hola mundo");
 
         output:
             hola
- 
+*/
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    char nombre_completo[] = "Nicolas Marinero";
+    printf("Imprimo solo los primeros 7 caracteres '%.7s'\n", nombre_completo);
+
+}
