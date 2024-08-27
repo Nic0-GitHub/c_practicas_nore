@@ -8,7 +8,7 @@
 7. Cambio de divisas - Dificultad: 7 √
 8. Descubriendo Impostores - Dificultad: 6 √
 9. Servicio de planta - Dificultad: 4 √
-
+10. Gestión de Mantenimiento de Vehículos - Dificultad 6 √
 
 # 1 Empresa de Tornillos
 Una empresa que se dedica a la manofacturación de tornillos desea crear un sistema
@@ -159,3 +159,10 @@ Se desea:
 - Registrar un empleado
 - Modificar permisos de un empleado
 - listar empleados permitidos por sector
+
+# 10 Gestión de Mantenimiento de Vehículos
+Un taller de automóviles necesita un sistema para gestionar el mantenimiento de vehículos. Cada vehículo tiene una matrícula, marca, modelo, año, y un vector de servicios realizados. Se requiere:
+- Registrar nuevos vehículos.
+- Listar todos los vehículos con sus detalles.
+- Registrar nuevos servicios para los vehículos.
+- Generar un informe mensual de servicios realizados.
